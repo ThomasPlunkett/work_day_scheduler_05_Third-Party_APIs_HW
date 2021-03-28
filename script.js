@@ -7,3 +7,5 @@
 // EVENT LISTENERS
 
 // FUNCTION CALLS
+
+console.log("Hello world!");
